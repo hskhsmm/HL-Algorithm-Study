@@ -18,7 +18,10 @@ public class Main {
         check = new boolean[N][N];
 
         for(int i=0; i<N; i++) {
-            arr[i] = br.readLine().toCharArray();
+            String s = br.readLine();
+            for(int j=0; j<N; j++) {
+                arr[i][j] = s.charAt(j); // 문자 하나씩 배열에 저장
+            }
         }
 
         int normalCount = 0;
