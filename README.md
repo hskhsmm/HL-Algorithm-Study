@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Java-F2712B?style=flat-square&logo=OpenJDK&logoColor=white"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-F2712B?style=flat-square&logo=OpenJDK&logoColor=white"/>
     </td>
   </tr>
 </table>
