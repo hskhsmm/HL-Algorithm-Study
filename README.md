@@ -19,8 +19,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sungmin214">
-        <img src="https://avatars.githubusercontent.com/Sungmin214" width="140px;" alt="Sungmin214"/>
+      <a href="https://github.com/hskhsmm">
+        <img src="https://avatars.githubusercontent.com/hskhsmm" width="140px;" alt="hskhsmm"/>
       </a>
     </td>
   </tr>
